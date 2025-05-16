@@ -45,7 +45,7 @@ func selectSales(client int) ([]Sale, error) {
 
 	return sales, nil
 }
-git
+
 func main() {
 	client := 208
 
